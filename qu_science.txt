@@ -1,0 +1,5 @@
+Q1: The sun is a star (y/n)?
+Q2: Humans have 3 lungs (y/n)?
+Q3: Sound travels faster than light (y/n)?
+Q4: Ice is the solid form of water (y/n)?
+Q5: The Earth revolves around the Sun (y/n)?

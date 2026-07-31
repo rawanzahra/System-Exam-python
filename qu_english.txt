@@ -1,0 +1,5 @@
+Q1: The word "cat" is a noun (y/n)?
+Q2: Run is an adjective (y/n)?
+Q3: We use "an" before words that start with a vowel sound (y/n)?
+q4: The word "beautiful" is an adjective (y/n)?
+Q5: We use a capital letter at the beginning of a sentence (y/n)?
